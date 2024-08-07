@@ -1,3 +1,5 @@
+/* EJERCICIOS PARA PRINCIPIANTES */
+
 // 1. Escribe un comentario en una línea
 
 // Esto es un comentario de una línea.

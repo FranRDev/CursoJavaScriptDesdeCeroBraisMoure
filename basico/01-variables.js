@@ -1,3 +1,5 @@
+/* VARIABLES */
+
 // var
 
 var holaMundo = "¡Hola, JavaScript!"

@@ -1,4 +1,4 @@
-/* Tipo de datos primitivos */
+/* TIPOS DE DATOS PRIMITIVOS */
 
 // Cadena de texto (string)
 let nombre = "Fran Rodríguez"

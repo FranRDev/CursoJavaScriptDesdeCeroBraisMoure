@@ -1,3 +1,5 @@
+/* HOLA MUNDO */
+
 // Esto es un comentario simple
 
 /*
